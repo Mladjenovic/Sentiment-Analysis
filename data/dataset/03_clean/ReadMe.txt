@@ -1,0 +1,1 @@
+Column 'Augmented review text' in file train_clean_with_emoticons.csv represents 'Review Text' column augmented with Pegasus model.
